@@ -36,6 +36,24 @@
 		"url": "acestream://5c26bf5f96ccae8937c664d924a53166d410ac5d"
 		},
 		{
+		"name": "Movistar La Liga",
+		"info": "af4",
+		"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+		"url": "acestream://af458073c3096293a4dea9f369d4f308e7125bd6"
+		},
+		{
+		"name": "Movistar La Liga",
+		"info": "31c",
+		"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+		"url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38"
+		},
+		{
+		"name": "Movistar La Liga",
+		"info": "1ab",
+		"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+		"url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78"
+		},
+		{
 		"name": "Movistar La Liga 2",
 		"info": "2c0",
 		"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
@@ -67,9 +85,21 @@
 		},
 		{
 		"name": "M. Liga de Campeones",
-		"info": "f370",
+		"info": "91b",
+		"image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+		"url": "acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920"
+		},
+		{
+		"name": "M. Liga de Campeones",
+		"info": "e57",
 		"image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
 		"url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
+		},
+		{
+		"name": "M. Liga de Campeones",
+		"info": "9db",
+		"image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+		"url": "acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e"
 		}
     ]
 }
