@@ -100,7 +100,13 @@
 		"info": "9db",
 		"image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
 		"url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"
-		}
+		},
+        {
+          "name": "M. Liga de Campeones 1 (FHD)(NewEra)",
+          "info": "a2cc",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc"
+        }
     ]
 }
  
