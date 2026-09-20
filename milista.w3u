@@ -7,25 +7,25 @@
     "stations":
     [
 		{
-		"name": "DAZN La Liga - NE - FHD",
+		"name": "DAZN La Liga 720",
 		"info": "d15",
-		"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-		"url": "acestream://d1596a3988b84a4d2711fd380eb8a53256ad74ae"
-		},
-		{
-		"name": "DAZN La Liga - NE - FHD",
-		"info": "71c",
-		"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-		"url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc"
-		},
-		{
-		"name": "DAZN La Liga - Elcano",
-		"info": "eb4",
 		"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
 		"url": "acestream://eb4975702ceadca7ed74f8707e17a9f55569dbb9"
 		},
 		{
-		"name": "DAZN La Liga - Elcano",
+		"name": "DAZN La Liga 1080",
+		"info": "71c",
+		"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+		"url": "acestream://7f9857c45764ef2c7cdfb619b89db3056a57a51f"
+		},
+		{
+		"name": "DAZN La Liga 1080",
+		"info": "eb4",
+		"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+		"url": "acestream://9c588ac92554746c489bc553773d959f6d2dfd8e"
+		},
+		{
+		"name": "DAZN La Liga 1080",
 		"info": "4e6",
 		"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
 		"url": "acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f"
@@ -46,7 +46,7 @@
 		"name": "DAZN La Liga 2",
 		"info": "635",
 		"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-		"url": "acestream://635b61c1f240449163260cd914d10d886a54fee3"
+		"url": "acestream://b63fcadc2390455d8a328f6c16b8b0a9adec21a3"
 		},
 		{
 		"name": "DAZN La Liga 2",
@@ -55,34 +55,40 @@
 		"url": "acestream://a70a1605f69c8379e04094df96922a42adfbb431"
 		},
 		{
-		"name": "Movistar La Liga",
+		"name": "Movistar La Liga 720",
 		"info": "b02",
 		"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-		"url": "acestream://b0260a1261eb3817c353ef0a6862747dee18cdda"
+		"url": "acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a"
 		},
 		{
-		"name": "Movistar La Liga",
+		"name": "Movistar La Liga 720",
 		"info": "af46",
-		"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-		"url": "acestream://af468a318ad209b29a042a9080b519c6b40cec79"
-		},
-		{
-		"name": "Movistar La Liga",
-		"info": "af45",
-		"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-		"url": "acestream://af458073c3096293a4dea9f369d4f308e7125bd6"
-		},
-		{
-		"name": "Movistar La Liga - Elcano",
-		"info": "f86",
 		"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
 		"url": "acestream://f863873de9f7b2996dde19a0657dd89835af3007"
 		},
 		{
-		"name": "Movistar La Liga - Elcano",
-		"info": "0fe",
+		"name": "Movistar La Liga 1080 *",
+		"info": "af45",
 		"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
 		"url": "acestream://0febfb5cac3384f487d55c559bbfc877db2d0357"
+		},
+		{
+		"name": "Movistar La Liga 1080 **",
+		"info": "f86",
+		"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+		"url": "acestream://3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259"
+		},
+		{
+		"name": "Movistar La Liga 1080 **",
+		"info": "0fe",
+		"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+		"url": "acestream://a64e02a6d914f098cbe1b724ff4f7aef83419a4a"
+		},
+		{
+		"name": "Movistar La Liga 1080 **",
+		"info": "d3b",
+		"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+		"url": "acestream://d3b11d6c18ad43df5cd42c1dafb4dd12d8f829e8"
 		},
 		{
 		"name": "Movistar La Liga 2",
@@ -121,28 +127,28 @@
 		"url": "acestream://4141892f5df7d6474bf0279895ce02b7336c9928"
 		},
 		{
-		"name": "M. Liga de Campeones - Ne - FHD",
+		"name": "M. Liga de Campeones 720",
 		"info": "c16",
-		"image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-		"url": "acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc"
-		},
-		{
-		"name": "M. Liga de Campeones - Ne - FHD",
-		"info": "778",
-		"image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-		"url": "acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a"
-		},
-		{
-		"name": "M. Liga de Campeones - Elcano",
-		"info": "63e",
 		"image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
 		"url": "acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439"
 		},
+		{
+		"name": "M. Liga de Campeones 1080 *",
+		"info": "778",
+		"image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+		"url": "acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920"
+		},
+		{
+		"name": "M. Liga de Campeones 1080 **",
+		"info": "63e",
+		"image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+		"url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
+		},
         {
-        "name": "M. Liga de Campeones - Elcano",
+        "name": "M. Liga de Campeones 1080 **",
         "info": "432",
         "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-        "url": "acestream://43249349740032bee068b5bbff7b078f642812db"
+        "url": "acestream://91af434b0bb521189286f8cbbab1aed39d7536fe"
         },
         {
         "name": "M. Liga de Campeones - NewLoop",
@@ -154,7 +160,7 @@
         "name": "M. Liga de Campeones 2 NE - FHD",
         "info": "c6a",
         "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-        "url": "acestream://c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb"
+        "url": "acestream://8156912ae14f6174a19c8a4efcf36a06e847f632"
         },
         {
         "name": "M. Liga de Campeones 2 NE - FHD",
